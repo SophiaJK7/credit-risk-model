@@ -1,0 +1,19 @@
+venv
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+*.ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
+
+# Docker
+*.log
+
+# IDEs
+.vscode/
+.idea/
